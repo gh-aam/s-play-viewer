@@ -117,7 +117,7 @@ fieldset {
 }
 
 /* Responsive design for mobile devices */
-@media only screen and (max-width: 1080px) {
+@media (max-width: 1500px) {
   main { grid-template-columns: 1fr; }
   input { height: 24px; }
   button { padding: 6px 20px; }
