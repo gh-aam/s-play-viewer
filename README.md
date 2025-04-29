@@ -7,4 +7,4 @@
 * JavaScript (DOM Manipulation, Array Functions, Prototypes/Classes, Modules, Fetch API etc.)
 
 ## Credit
-[Fundamentals of Web Development, 3rd Edition](https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-web-development/P200000003214/9780136792857?srsltid=AfmBOoopR88w5awDcnX0siWRwk5ny7WEYdTfBxL4L7zeZD69pKDBLstI)
+[Fundamentals of Web Development, 3rd Edition](https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-web-development/P200000003214/9780136792857?srsltid=AfmBOoopR88w5awDcnX0siWRwk5ny7WEYdTfBxL4L7zeZD69pKDBLstI).
