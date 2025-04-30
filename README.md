@@ -1,5 +1,5 @@
 ## Shakespeare Play Viewer
-`Shakespeare Play Viewer` is an interactive JavaScript-based application which shows different scenarios from different acts. It's responsive. The focus is on interactivity, not design.
+`Shakespeare Play Viewer` is an interactive JavaScript-based application which shows different scenarios from different acts. It's responsive. The focus is on functionality and interactivity, not design.
 
 ## Technologies Used
 * HTML
